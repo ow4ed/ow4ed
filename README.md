@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ow4ed
+- 👋 Hi, I’m Stefan
 - 👀 I’m interested in stuff
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
-  -> stefan.tataru8@gmail.com
-  -> 
+- 🌱 I’m currently learning stuff
+- 💞️ I’m looking to collaborate on stuff
+- 📫 How to reach me: check out my email
 
 <!---
 ow4ed/ow4ed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
