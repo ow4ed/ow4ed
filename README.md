@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Stefan
 - 👀 I’m interested in stuff
-- 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on stuff
+- 🌱 I’m currently learning C++ & stuff
+- 💞️ I’m looking to collaborate on Java, C++ & stuff
 - 📫 How to reach me: check out my email
 
 <!---
